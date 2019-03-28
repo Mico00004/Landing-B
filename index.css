@@ -1,0 +1,124 @@
+body{
+    margin: 0 auto;
+}
+.Landing-B {
+    
+    width: 1440px;
+    height: 1835px;
+   
+}
+.header {
+  width: 1440px;
+  height: 65px;
+  background-color: #ffffff;
+}
+.logo {
+    position: absolute;
+    width: 111px;
+    height: 24px;
+    top: 20px;
+    left: 144px;
+    object-fit: contain;
+}
+.Rectangle {
+    position: absolute;
+    width: 151px;
+    height: 38px;
+    border-radius: 4px;
+    top: 16px;
+    left: 1184px;
+    background-color: #2a2d34;
+    border-color:#0d0f13;
+}  
+.SIGN-ME-UP {
+    width: 106px;
+    height: 17.3px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.23;
+    letter-spacing: 1.4px;
+    text-align: center;
+    color: #ffffff;
+}
+.banner {
+    top: 72px;
+    width: 1440px;
+    height: 448px;
+    background-color: #2a2d34;
+}
+.Get-into-the-market {
+    position: relative;
+    left: 314px;
+    right: 314px;
+    width: 811px;
+    height: 112px;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ff911b;
+}
+.Get-into-the-market .text-style-1 {
+    color: #ffffff;
+}
+.textGet{
+    position: absolute; 
+    width: 814px; 
+    top:160px;
+    height: 84px; 
+    display: table; 
+}
+.textGet p {
+    display: table-cell; 
+    vertical-align: middle; 
+    text-align: center; 
+}
+.-word-pitch-about {
+    width: 788px;
+    height: 48px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.text24{
+    position: absolute; 
+    top:302px;
+    left: 315px;
+
+}
+.buttonBe{
+    position: absolute;
+    width: 288px;
+    height: 48px;
+    border-radius: 4px;
+    border-color:#0d0f13;
+    left: 577px;
+    top: 390px;
+    background-color: #0d0f13;
+}
+.BE-AN-EARLY-MEMBER {
+    width: 187.3px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.4px;
+    text-align: center;
+    color: #ffffff;
+}
